@@ -1,0 +1,5 @@
+pytorch
+pandas 
+numpy
+opencv
+ultralytics
